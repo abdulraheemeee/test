@@ -1,0 +1,30 @@
+.container{
+    width: auto;
+    height: 530px;
+    border: solid red 2px;
+}
+header, footer{
+    height: 100px;
+    border: solid green 2px;
+    font-size: 50px;
+    background-color: aqua;
+    text-align: center;
+  margin: 5px 0;
+}
+nav{
+    height: 30px;
+    border: solid green 2px;
+    margin: 5px 0;
+}
+section{
+    height: 284px;
+    border-top: solid green 2px;
+    margin: 5px 0;
+    overflow-y: auto;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+*{
+    margin: 0;
+}
